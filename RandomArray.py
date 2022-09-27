@@ -1,4 +1,3 @@
-from tkinter import DOTBOX
 import numpy as np
 
 rand_int = np.int64(np.arange(1, 21))
